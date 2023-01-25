@@ -15,11 +15,15 @@ I’m an Information Technology Graduate, who is an aspiring developer with a pa
  🌏 Traveling 
 
 
+
+
 - 🌱 I’m currently learning **Asp.net & React**
 
 - 📫 How to reach me **zandiletsh20@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 🤣**
+
+
 
 
 <p>
