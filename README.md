@@ -24,7 +24,7 @@ I’m an Information Technology Graduate, who is an aspiring developer with a pa
 - ⚡ Fun fact **I think I am funny 🤣**
 
 
-
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white" />
