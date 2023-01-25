@@ -2,7 +2,17 @@
 <h3 align="center">A Aspiring Full Stack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
+I’m an Information Technology Graduate, who is an aspiring developer with a passion for building clean web applications with functionality. Creating creative solutions to solve problems. I am always willing to learn new skills and concepts.
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zandiletshabalala20&label=Profile%20views&color=0e75b6&style=flat" alt="zandiletshabalala20" /> </p>
+
+### Hobbies
+
+ 📚 Reading
+ 🏀 Basketball
+ 👀 Discovering new things 
+ 💻 Programming
+ 🌏 Traveling 
 
 - 🌱 I’m currently learning **Asp.net & React**
 
