@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zandile Tshabalala</h1>
-<h3 align="center">A Aspiring Full Stack Developer.</h3>
+<h3 align="center"> Junior Cloud & DevOps Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 I’m an Information Technology Graduate, who is an aspiring developer with a passion for building clean web applications with functionality. Creating creative solutions to solve problems. I am always willing to learn new skills and concepts.
