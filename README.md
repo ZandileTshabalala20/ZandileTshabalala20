@@ -13,11 +13,12 @@ I’m an Information Technology Graduate, who is an aspiring Junior Cloud & DevO
  👀 Discovering new things 
  💻 Programming
  🌏 Traveling 
+     
 
 
 ###
 
-- 🌱 I’m currently learning **Asp.net & React**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **zandiletsh20@gmail.com**
 
