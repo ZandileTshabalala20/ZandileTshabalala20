@@ -13,6 +13,7 @@ I am a Junior Cloud & DevOps Engineer with a passion for building clean web appl
  👀 Discovering new things 
  💻 Programming
  🌏 Traveling 
+ 
      
 
 
