@@ -2,7 +2,7 @@
 <h3 align="center"> Junior Cloud & DevOps Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
-I am a Junior Cloud & DevOps Engineer with a passion for building clean web applications with functionality and improve communication and software deployment. Creating creative solutions to solve problems. I am always willing to learn new skills and concepts.
+I'm a Junior Cloud & DevOps Engineer with a strong focus on developing efficient, scalable solutions. I thrive on improving software deployment workflows, supporting the design, implementation, and maintenance of cloud infrastructure and CI/CD pipelines.I am constantly expanding my skill set to tackle new challenges in the cloud and DevOps space.
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zandiletshabalala20&label=Profile%20views&color=0e75b6&style=flat" alt="zandiletshabalala20" /> </p>
 
